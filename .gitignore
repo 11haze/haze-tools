@@ -1,0 +1,13 @@
+# Local run output: session CSVs, debug frames, capture tests
+logs/
+
+# Game screenshots used for calibration/testing (local only)
+screenshots/
+
+# Python
+.venv/
+__pycache__/
+*.pyc
+
+# Local Claude Code settings
+.claude/settings.local.json
